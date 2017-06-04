@@ -13,7 +13,7 @@
             "online": "https://forums.micaboards.com"
           },
           "url": "https://github.com/MiCa-boards/MiCa7688_Arduino/raw/master/mica-0.1.tar.bz2",
-          "checksum": "SHA-256:659ec4eb2bda79ebb5716cb1f50092ea807a0f7c0c76b928f16e6da05669c0f8",
+          "checksum": "SHA-256:18fd6d427d1fdd224b846c437bba7d78824fbc140ca74b560eb0e05aec3d365d",
           "name": "MiCa AVR Boards",
           "version": "0.1.0",
           "architecture": "avr",
