@@ -24,8 +24,8 @@ mica7688uno.bootloader.file=optiboot/optiboot_atmega328.hex
 mica7688uno.build.mcu=atmega328p
 mica7688uno.build.f_cpu=16000000L
 mica7688uno.build.board=AVR_UNO
-mica7688uno.build.core=arduino
-mica7688uno.build.variant=mica7688uno
+mica7688uno.build.core=arduino:arduino
+mica7688uno.build.variant=arduino:standard
 
 
 ##############################################################
