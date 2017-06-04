@@ -12,7 +12,7 @@
           "help": {
             "online": "https://forums.micaboards.com"
           },
-          "url": "https://github.com/MiCa-boards/MiCa7688_Arduino/blob/master/mica-0.1.tar.bz2",
+          "url": "https://github.com/MiCa-boards/MiCa7688_Arduino/blob/master/mica-0.1.tar.bz2?raw=true",
           "checksum": "SHA-256:659ec4eb2bda79ebb5716cb1f50092ea807a0f7c0c76b928f16e6da05669c0f8",
           "name": "MiCa AVR Boards",
           "version": "0.1.0",
