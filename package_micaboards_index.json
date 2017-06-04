@@ -12,13 +12,13 @@
           "help": {
             "online": "https://forums.micaboards.com"
           },
-          "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-1.1.0.tar.bz2",
-          "checksum": "SHA-256:4e72d4267d9a8d86874edcd021dc661854a5136c0eed947a6fe10366bc51e373",
+          "url": "https://github.com/MiCa-boards/MiCa7688_Arduino/blob/master/mica-0.1.tar.bz2",
+          "checksum": "SHA-256:659ec4eb2bda79ebb5716cb1f50092ea807a0f7c0c76b928f16e6da05669c0f8",
           "name": "MiCa AVR Boards",
           "version": "0.1.0",
           "architecture": "avr",
           "archiveFileName": "mica-0.1.tar.bz2",
-          "size": "29455",
+          "size": "37261",
           "toolsDependencies": [
             {
               "packager": "arduino",
