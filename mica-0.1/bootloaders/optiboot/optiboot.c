@@ -274,7 +274,7 @@ optiboot_version = 256*(OPTIBOOT_MAJVER + OPTIBOOT_CUSTOMVER) + OPTIBOOT_MINVER;
 /* set the UART baud rate defaults */
 #ifndef BAUD_RATE
 #if F_CPU >= 8000000L
-#define BAUD_RATE   57600L // Highest rate Avrdude win32 will support
+#define BAUD_RATE   19200L // Highest rate Avrdude win32 will support
 #elif F_CPU >= 1000000L
 #define BAUD_RATE   9600L   // 19200 also supported, but with significant error
 #elif F_CPU >= 128000L
