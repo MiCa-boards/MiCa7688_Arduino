@@ -1,10 +1,10 @@
 # 1 "baudcheck.c"
-# 1 "/home/marco/Data/MiCaLocal/MiCa7688_ArduinoBootloader//"
+# 1 "/home/marco/Data/MiCaLocal/MiCa7688_Arduino/mica-0.1/bootloaders/optiboot//"
 # 1 "<built-in>"
 # 1 "<command-line>"
 # 1 "baudcheck.c"
 # 24 "baudcheck.c"
-bpsx=19200
+bpsx=57600
 bps=${bpsx/L/}
 bps=${bps/U/}
 fcpux=16000000L
