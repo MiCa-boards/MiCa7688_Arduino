@@ -50,7 +50,7 @@ mega.build.board=AVR_MEGA2560
 ## -------------------------
 mega.menu.cpu.atmega2560=ATmega2560 (Mega 2560)
 
-mega.menu.cpu.atmega2560.upload.protocol=wiring
+mega.menu.cpu.atmega2560.upload.protocol=stk500v2
 mega.menu.cpu.atmega2560.upload.maximum_size=253952
 mega.menu.cpu.atmega2560.upload.speed=57600
 
