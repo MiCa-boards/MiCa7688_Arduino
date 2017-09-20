@@ -3,14 +3,14 @@
     {
       "maintainer": "MiCaBoards",
       "help": {
-        "online": "https://forums.micaboards.com"
+        "online": "http://micaplanet.com"
       },
       "websiteURL": "http://micaplanet.com",
       "platforms": [
         {
           "category": "MiCaBoards",
           "help": {
-            "online": "https://micaplanet.com"
+            "online": "http://micaplanet.com"
           },
           "url": "https://github.com/MiCa-boards/MiCa7688_Arduino/raw/master/mica-0.1.tar.bz2",
           "checksum": "SHA-256:d10cd0c9ab235871c75d7a31525546343d0694565ec15986bdbc0356007e1150",
