@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "maintainer": "MiCaBoards",
+      "maintainer": "MiCaPlanet",
       "help": {
         "online": "http://micaplanet.com"
       },
@@ -29,7 +29,7 @@
           ]
         }
       ],
-       "tools": [],
+      "tools": [],
       "email": "marco@emavap.be",
       "name": "MiCaBoards"
     }
